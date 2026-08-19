@@ -126,7 +126,7 @@ export const dataProjects: Project[] = [
         title: 'Smart E-Commerce Operations Analytics Platform',
         tag: 'DATA · SQL · POWER BI',
         desc: 'A two-fact-table star schema for order economics and returns, with forecasting, segmentation and a DAX-driven Excel workbook.',
-        github: '',
+        github: 'https://github.com/umar80643/ecommerce-analytics-platform.git',
         stack: ['SQL Server', 'Python', 'Excel', 'Power BI'],
         points: [
             'Modeled 15,000 orders, 25,426 line items, 3,000 customers, 500 products and 1,277 returns',
