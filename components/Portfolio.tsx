@@ -455,8 +455,7 @@ export default function Portfolio() {
 
                             <p className="copy">
                                 I&apos;m Umar Farooque, a Computer Science
-                                undergraduate at AllenHouse Institute
-                                of Technology. I enjoy turning technical
+                                undergraduate. I enjoy turning technical
                                 problems into working software.
                             </p>
 
